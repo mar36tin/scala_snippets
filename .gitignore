@@ -1,5 +1,4 @@
 .gitignore
-.bsp
-.idea
-project
-target
+.bsp/
+.idea/
+target/
